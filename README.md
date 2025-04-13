@@ -1,4 +1,4 @@
-# LocalBrowse
+# Personal Server
 
 A lightweight Java-based web server that lets you browse, view, and download files from your PC using any device connected to your Wi-Fi network.
 
