@@ -1,0 +1,13 @@
+# Ignore uploaded original video files (if stored separately)
+uploads/
+
+# Ignore all processed or generated video files in case you're saving them
+public/videos/*
+
+# But keep the directory
+!public/videos/.gitkeep
+
+# FFmpeg temp files or thumbnails (if you generate any)
+*.ts
+*.m3u8
+*.jpg
